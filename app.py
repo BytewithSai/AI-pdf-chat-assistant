@@ -73,6 +73,10 @@ with st.sidebar:
             status.info("📄 Saving uploaded PDF...")
             progress.progress(10)
 
+            
+
+            os.makedirs("data", exist_ok=True)
+
             pdf_path = "data/current.pdf"
 
             with open(pdf_path, "wb") as f:
