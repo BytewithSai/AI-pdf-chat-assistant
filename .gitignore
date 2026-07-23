@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+vector_store/
+data/current.pdf
+venv/
