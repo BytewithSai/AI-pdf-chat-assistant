@@ -4,25 +4,10 @@ An AI-powered PDF Chat Assistant that allows users to upload a PDF and ask natur
 
 ## 🚀 Live Demo
 
-> Add your Streamlit app URL here after deployment.
-
-Example:
-
-https://your-app-name.streamlit.app
+https://ai-pdf-chat-assistant-q5xzgezuaknbnxkgg5yxg9.streamlit.app/
 
 ---
 
-## 📸 Preview
-
-> Add screenshots or a GIF of the application here.
-
-Suggested screenshots:
-- Home Screen
-- PDF Upload
-- Chat Interface
-- Processing Progress
-
----
 
 ## ✨ Features
 
